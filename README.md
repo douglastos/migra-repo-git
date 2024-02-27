@@ -1,4 +1,4 @@
-![](https://i.imgur.com/4BlGRiA.jpeg)
+![](.pic/cover3.jpg)
 
 # HOW TO MIGRAR REPOSITORIOS/PROJETOS GIT
 
