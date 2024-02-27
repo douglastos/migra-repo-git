@@ -16,3 +16,6 @@ subindo em novo repo:
 ```bash
 git push --mirror <url_do_repo_destino>
 ```
+
+referencia:
+[konia](https://konia.com.br/como-migrar-um-repositorio-git-com-historico/)
